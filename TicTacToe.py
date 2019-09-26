@@ -1,3 +1,7 @@
+### History ###
+# 1. downloaded from Github
+# 2. started debugging
+
 def display_board(user_positions):
     print('   |   |   ')
     print(' {} | {} | {} '.format(user_positions[7], user_positions[8], user_positions[9]))

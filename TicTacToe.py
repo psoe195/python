@@ -1,7 +1,7 @@
-### History ###
-# 1. downloaded from Github
-# 2. started debugging
-# 3. Create virtual environment with Python 3
+"""
+A little Tic Tac Toe python program that allows to play 2 users.
+First user choose X or O
+"""
 
 def display_board(user_positions):
     print('   |   |   ')

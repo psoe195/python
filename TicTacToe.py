@@ -1,6 +1,7 @@
 ### History ###
 # 1. downloaded from Github
 # 2. started debugging
+# 3. Create virtual environment with Python 3
 
 def display_board(user_positions):
     print('   |   |   ')
